@@ -12,7 +12,7 @@
 
 ## 📌 Showcased Repositories:
 
-<a href="https://github.com/erdbomo/creative5">
+<a href="https://github.com/erdbom/creative5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdbom&repo=creative5&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/erdbom/creative2">
