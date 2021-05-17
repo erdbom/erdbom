@@ -10,9 +10,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdbom&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=erdbom&show_icons=true&theme=dark&hide_border=true&hide=issues&&count_private=true&include_all_commits=true" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+## 📌 Showcased Repositories:
+
+<a href="https://github.com/erdbomo/creative5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdbom&repo=creative5&theme=dark&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/erdbom/creative2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdbom&repo=creative2&theme=dark&hide_border=true" />
 </a>
